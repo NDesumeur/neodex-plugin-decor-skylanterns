@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.decorskylanterns",
+  "repo": "NDesumeur/neodex-plugin-decor-skylanterns",
+  "version": "1.0.0",
+  "sha256": "b3fe79ac439713896e1b4f9ef271508e6fc6e5a466d87691f531d67f2ad410d3",
+  "approvedAt": "2026-11-22T19:05:25.713Z",
+  "neobase": ">=4.1.0",
+  "signature": "oizgWCge9dxwoBXaJn6B/B5kknellG1l7XKXx1X33R080THjqyCAityA0VDxReuQ5Nk5m585LgEBz+mkmxtrBw=="
+}
